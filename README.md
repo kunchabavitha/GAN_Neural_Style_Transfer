@@ -89,17 +89,6 @@ plt.imshow(img)
 plt.show()
 ```
 
-## 🔥 Web Interface & API
-
-In order to make it easy for anyone to interact with the model,we created a clean web interface using Streamlit and deployed it on their official cloud space.
-
-- Checkout Official Website : https://share.streamlit.io/deepeshdm/pixelmix/main/App.py
-- Website Repository : [here](https://github.com/deepeshdm/PixelMix)
-
-<div align="center">
-  <img src="/Imgs/website.gif" width="90%"/>
-</div>
-
 
 ## 🖼🖌 Some of the art we created in this project
 
